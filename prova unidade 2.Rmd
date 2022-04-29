@@ -1,0 +1,85 @@
+---
+title: "prova unidade 2"
+author: "Joseferson Da Silva Barreto"
+date: '2022-04-29'
+output:
+  pdf_document: default
+  html_document: default
+---
+
+
+
+**1-** Defina fenômenos determinísticos e fenômenos aleatórios corretamente 
+
+() Fenômeno determinístico e fenômenos aleatórios são as mesmas coisas 
+  
+() Fenômenos determinísticos são aqueles que Invariavelmente dá o mesmo resultado se repetido sobre as mesmos condições específicas, já fenômenos aleatórios são aqueles que os mesmo repetidos sob as mesmas condições , apresentam variações nos resultados   
+
+() O fenômeno determinístico não é capaz de determinar nada enquanto fenômenos aleatórios não existe  
+
+() Fenômenos determinísticos não existe isso enquanto fenômenos aleatórios não são importantes na probabilidade 
+
+ **2-** Para calcular a prova habilidade no resultado é necessário que ele esteja associada a um experimento aleatório marque verdadeiro faço para as características de um experimento aleatório, os quais estão corretas ?
+ 
+I- Cada experimento pode ser repetido indefinidamente sobre as mesmas condições (n).
+
+II-Não se conhece a priori,  ou seja antecipadamente o resultado do experimento ,mas pode-se descrever todos os possíveis resultados.
+
+III- Conhecemos antecipadamente o resultado do experimento, entretanto, não podemos descrever os resultados possíveis.
+
+IV-Quando o experimento for repetido inúmeras vezes ,surgirá uma regularidade dos resultados possíveis, isto é, $f=\frac{r}{n}$(frequência relativa ) haverá uma estabilidade da fração na ocorrência o número de vezes em que um determinado resultado aconteceu na n vezes em que o experimento aleatório foi repetido .
+
+Quais estão corretas?
+
+
+() I,II  
+
+() apenas a III  
+
+() apenas a I  
+
+() II e III  
+
+() I,II,IV
+
+
+
+3- seja a probabilidade de evento dada pela formula $P(E)=\frac{m}{n}$ onde **m** número de eventos favoráveis à probabilidade e que
+se deseja calcular,  e **n** é  número total de ocorrências de eventos no espaço
+amostral. Resolva:
+
+Imagine que em um determinado setor de uma prefeitura há
+os seguintes funcionários: Carlos, Jackeline, Giulyana, Girlene,
+Cláudio e Larissa.
+Vamos pensar agora: qual a probabilidade de se
+escolher um funcionário ao acaso e ele ser do gênero
+feminino ?
+
+( ) $\frac{4}{6}$  
+
+( ) $\frac{2}{6}$
+
+( ) $\frac{6}{2}$
+
+( ) $1$ 
+
+( ) $\frac{5}{6}$
+
+
+
+ **4-** Um estudante chega atrasado em 30% das aulas e esquece o material didático em 40% das
+aulas. Supondo que sejam eventos independentes, calcule a probabilidade do estudante
+chegar na hora e com material.
+
+
+
+( ) 0,39
+
+( ) 0,498
+
+( ) 0,12  
+
+( ) 0,60   
+
+( ) 0 42 
+
